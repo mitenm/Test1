@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\C# codes\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\user\Desktop\C# codes\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\user\Desktop\C# codes\Test1\Test1\obj\x86\Debug\Test1.exe
+C:\Users\user\Desktop\C# codes\Test1\Test1\obj\x86\Debug\Test1.pdb
